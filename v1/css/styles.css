@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+}
+.wrapper {
+    width: 75vw;
+    height: 80vh;
+    background-color: red;
+}
+.subwrapper {
+    width: 100px;
+    height: 100px;
+}
+.pink {
+    background-color: pink;
+}
+.blue {
+    background-color: blue;
+}
+.yellow {
+    background-color: yellow;
+}
+aside {
+    width: 25vw;
+    height: 80vh;
+    background-color: grey;
+}
+footer {
+    width: 100vw;
+    height: 20vh;
+    background-color:green;
+}
